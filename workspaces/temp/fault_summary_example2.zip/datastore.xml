@@ -1,0 +1,14 @@
+<dataStore>
+  <id>DataStoreInfoImpl--4dcde5f3:12ffd3a5688:-7fc4</id>
+  <name>fault_summary_example2.zip</name>
+  <type>Shapefile</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-21923696:12fed79793a:-7f71</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="url">file:/opt/geoserver_data/data/temp/fault_summary_example2.zip/fault_summary_example.shp</entry>
+    <entry key="namespace">http://geonode.org/temporary</entry>
+  </connectionParameters>
+  <__default>false</__default>
+</dataStore>

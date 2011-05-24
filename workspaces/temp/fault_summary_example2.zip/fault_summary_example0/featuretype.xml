@@ -1,0 +1,38 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--4dcde5f3:12ffd3a5688:-7fb9</id>
+  <name>fault_summary_example0</name>
+  <nativeName>fault_summary_example</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-21923696:12fed79793a:-7f70</id>
+  </namespace>
+  <title>fault_summary_example</title>
+  <nativeCRS>GEOGCS[&quot;GCS_WGS_1984&quot;, 
+  DATUM[&quot;D_WGS_1984&quot;, 
+    SPHEROID[&quot;WGS_1984&quot;, 6378137.0, 298.257223563]], 
+  PRIMEM[&quot;Greenwich&quot;, 0.0], 
+  UNIT[&quot;degree&quot;, 0.017453292519943295], 
+  AXIS[&quot;Longitude&quot;, EAST], 
+  AXIS[&quot;Latitude&quot;, NORTH]]</nativeCRS>
+  <srs>EPSG:4326</srs>
+  <nativeBoundingBox>
+    <minx>-154.1405750798722</minx>
+    <maxx>159.20127795527156</maxx>
+    <miny>41.96166134185304</miny>
+    <maxy>51.66134185303515</maxy>
+    <crs>EPSG:4326</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-154.1405750798722</minx>
+    <maxx>159.20127795527156</maxx>
+    <miny>41.96166134185304</miny>
+    <maxy>51.66134185303515</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>NONE</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--4dcde5f3:12ffd3a5688:-7fc4</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+</featureType>
