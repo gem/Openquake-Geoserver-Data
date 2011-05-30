@@ -1,0 +1,14 @@
+<dataStore>
+  <id>DataStoreInfoImpl--4dcde5f3:12ffd3a5688:-7f7c</id>
+  <name>WgtnFaultSample.zip</name>
+  <type>Shapefile</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-21923696:12fed79793a:-7f71</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="url">file:/opt/geoserver_data/data/temp/WgtnFaultSample.zip/WgtnFaultSample.shp</entry>
+    <entry key="namespace">http://geonode.org/temporary</entry>
+  </connectionParameters>
+  <__default>false</__default>
+</dataStore>

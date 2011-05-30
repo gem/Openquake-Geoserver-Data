@@ -1,19 +1,11 @@
 <featureType>
-  <id>FeatureTypeInfoImpl-21923696:12fed79793a:-7f21</id>
+  <id>FeatureTypeInfoImpl--4dcde5f3:12ffd3a5688:-7f5a</id>
   <name>fault_summary_example</name>
   <nativeName>fault_summary_example</nativeName>
   <namespace>
     <id>NamespaceInfoImpl-21923696:12fed79793a:-7f70</id>
   </namespace>
   <title>fault_summary_example</title>
-  <abstract>No abstract provided</abstract>
-  <metadataLinks>
-    <metadataLink>
-      <type>text/xml</type>
-      <metadataType>TC211</metadataType>
-      <content>http://184.106.119.223/geonetwork/srv/en/csw?outputschema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&amp;service=CSW&amp;request=GetRecordById&amp;version=2.0.2&amp;elementsetname=full&amp;id=6a9a8bcd-cf98-4f54-bdab-3748c6bff52d</content>
-    </metadataLink>
-  </metadataLinks>
   <nativeCRS>GEOGCS[&quot;GCS_WGS_1984&quot;, 
   DATUM[&quot;D_WGS_1984&quot;, 
     SPHEROID[&quot;WGS_1984&quot;, 6378137.0, 298.257223563]], 
@@ -39,7 +31,7 @@
   <projectionPolicy>NONE</projectionPolicy>
   <enabled>true</enabled>
   <store class="dataStore">
-    <id>DataStoreInfoImpl-21923696:12fed79793a:-7f22</id>
+    <id>DataStoreInfoImpl--4dcde5f3:12ffd3a5688:-7f5b</id>
   </store>
   <maxFeatures>0</maxFeatures>
   <numDecimals>0</numDecimals>

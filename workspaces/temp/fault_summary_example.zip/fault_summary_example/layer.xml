@@ -1,17 +1,15 @@
 <layer>
   <name>fault_summary_example</name>
-  <id>LayerInfoImpl-21923696:12fed79793a:-7f20</id>
+  <id>LayerInfoImpl--4dcde5f3:12ffd3a5688:-7f59</id>
   <type>VECTOR</type>
   <defaultStyle>
     <id>StyleInfoImpl-5436e90e:124760c23c4:-7ffc</id>
   </defaultStyle>
   <resource class="featureType">
-    <id>FeatureTypeInfoImpl-21923696:12fed79793a:-7f21</id>
+    <id>FeatureTypeInfoImpl--4dcde5f3:12ffd3a5688:-7f5a</id>
   </resource>
   <enabled>true</enabled>
   <attribution>
-    <title>admin</title>
-    <href>http://example.com/profiles/admin</href>
     <logoWidth>0</logoWidth>
     <logoHeight>0</logoHeight>
   </attribution>

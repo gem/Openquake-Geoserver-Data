@@ -1,0 +1,1 @@
+http://184.106.119.223/geoserver-geonode-dev/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=temp:WgtnFaultSample&maxFeatures=50&outputFormat=SHAPE-ZIP
