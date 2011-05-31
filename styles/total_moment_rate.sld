@@ -92,13 +92,13 @@
           <LineSymbolizer>
             <Geometry><ogc:PropertyName>edge</ogc:PropertyName></Geometry>
             <Stroke>
-              <CssParameter name="stroke">#1864FO</CssParameter>
+              <CssParameter name="stroke">#1864F0</CssParameter>
             </Stroke>
           </LineSymbolizer>
           <PolygonSymbolizer>
             <Geometry><ogc:PropertyName>outline</ogc:PropertyName></Geometry>
             <Fill>
-              <CssParameter name="fill">#1864FO</CssParameter>
+              <CssParameter name="fill">#1864F0</CssParameter>
               <CssParameter name="fill-opacity">0.5</CssParameter>
             </Fill>
           </PolygonSymbolizer>

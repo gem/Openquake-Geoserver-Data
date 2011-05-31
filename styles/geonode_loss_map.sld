@@ -87,7 +87,7 @@
               <Mark>
                 <WellKnownName>square</WellKnownName>
                 <Fill>
-                  <CssParameter name="fill">#1864FO</CssParameter>
+                  <CssParameter name="fill">#1864F0</CssParameter>
                 </Fill>
               </Mark>
               <Size>5.0</Size>
