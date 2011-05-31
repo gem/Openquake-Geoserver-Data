@@ -1,0 +1,39 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-3b99aa8:13027f2e85b:-7fce</id>
+  <name>392-hazardmap-0-02-quantile-0-75-hazard-map</name>
+  <nativeName>392-hazardmap-0-02-quantile-0-75-hazard-map</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-5436e90e:124760c23c4:-7ffe</id>
+  </namespace>
+  <title>392-hazardmap-0-02-quantile-0-75-hazard-map</title>
+  <abstract>No abstract provided</abstract>
+  <nativeCRS>GEOGCS[&quot;GCS_WGS_1984&quot;, 
+  DATUM[&quot;D_WGS_1984&quot;, 
+    SPHEROID[&quot;WGS_1984&quot;, 6378137.0, 298.257223563]], 
+  PRIMEM[&quot;Greenwich&quot;, 0.0], 
+  UNIT[&quot;degree&quot;, 0.017453292519943295], 
+  AXIS[&quot;Longitude&quot;, EAST], 
+  AXIS[&quot;Latitude&quot;, NORTH]]</nativeCRS>
+  <srs>EPSG:4326</srs>
+  <nativeBoundingBox>
+    <minx>-121.9798461</minx>
+    <maxx>-121.8798461</maxx>
+    <miny>37.7835771</miny>
+    <maxy>37.8835771</maxy>
+    <crs>EPSG:4326</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-121.9798461</minx>
+    <maxx>-121.8798461</maxx>
+    <miny>37.7835771</miny>
+    <maxy>37.8835771</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>NONE</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-3b99aa8:13027f2e85b:-7fd9</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+</featureType>

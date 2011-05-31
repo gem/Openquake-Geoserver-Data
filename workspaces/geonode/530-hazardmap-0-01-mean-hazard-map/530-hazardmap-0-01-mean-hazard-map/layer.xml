@@ -1,0 +1,17 @@
+<layer>
+  <name>530-hazardmap-0-01-mean-hazard-map</name>
+  <id>LayerInfoImpl-3b99aa8:13027f2e85b:6ed6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3b99aa8:13027f2e85b:6ed7</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3b99aa8:13027f2e85b:6ed5</id>
+  </resource>
+  <enabled>true</enabled>
+  <attribution>
+    <title>admin</title>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

@@ -1,0 +1,17 @@
+<layer>
+  <name>440-hazardmap-0-02-quantile-0-75-hazard-map</name>
+  <id>LayerInfoImpl-3b99aa8:13027f2e85b:-6801</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-5436e90e:124760c23c4:-7ff9</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3b99aa8:13027f2e85b:-6802</id>
+  </resource>
+  <enabled>true</enabled>
+  <attribution>
+    <title>admin</title>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

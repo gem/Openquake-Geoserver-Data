@@ -1,0 +1,42 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-3b99aa8:13027f2e85b:6ed5</id>
+  <name>530-hazardmap-0-01-mean-hazard-map</name>
+  <nativeName>530-hazardmap-0-01-mean-hazard-map</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-5436e90e:124760c23c4:-7ffe</id>
+  </namespace>
+  <title>530-hazardmap-0-01-mean-hazard-map</title>
+  <abstract>No abstract provided</abstract>
+  <keywords>
+    <string></string>
+  </keywords>
+  <nativeCRS>GEOGCS[&quot;GCS_WGS_1984&quot;, 
+  DATUM[&quot;D_WGS_1984&quot;, 
+    SPHEROID[&quot;WGS_1984&quot;, 6378137.0, 298.257223563]], 
+  PRIMEM[&quot;Greenwich&quot;, 0.0], 
+  UNIT[&quot;degree&quot;, 0.017453292519943295], 
+  AXIS[&quot;Longitude&quot;, EAST], 
+  AXIS[&quot;Latitude&quot;, NORTH]]</nativeCRS>
+  <srs>EPSG:4326</srs>
+  <nativeBoundingBox>
+    <minx>-122.0354644</minx>
+    <maxx>-121.8354644</maxx>
+    <miny>37.7746224</miny>
+    <maxy>37.7746224</maxy>
+    <crs>EPSG:4326</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-122.0355644</minx>
+    <maxx>-121.8353644</maxx>
+    <miny>37.774522399999995</miny>
+    <maxy>37.7747224</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>NONE</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-3b99aa8:13027f2e85b:6ed4</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+</featureType>

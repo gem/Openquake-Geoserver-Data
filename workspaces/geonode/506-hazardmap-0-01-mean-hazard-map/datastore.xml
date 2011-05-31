@@ -1,0 +1,14 @@
+<dataStore>
+  <id>DataStoreInfoImpl-3b99aa8:13027f2e85b:-6658</id>
+  <name>506-hazardmap-0-01-mean-hazard-map</name>
+  <type>Shapefile</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-5436e90e:124760c23c4:-7ffd</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="url">file:/opt/geoserver_data/data/default/506-hazardmap-0-01-mean-hazard-map/506-hazardmap-0-01-mean-hazard-map.shp</entry>
+    <entry key="namespace">http://geonode.org/</entry>
+  </connectionParameters>
+  <__default>false</__default>
+</dataStore>
