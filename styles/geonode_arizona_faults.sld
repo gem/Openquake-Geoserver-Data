@@ -10,12 +10,12 @@
         <sld:Rule>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#008800</sld:CssParameter>
+              <sld:CssParameter name="stroke">#880000</sld:CssParameter>
             </sld:Stroke>
           </sld:LineSymbolizer>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#bbffbb</sld:CssParameter>
+              <sld:CssParameter name="stroke">#ffbbbb</sld:CssParameter>
               <sld:CssParameter name="stroke-dasharray">2.0 2.0 </sld:CssParameter>
             </sld:Stroke>
           </sld:LineSymbolizer>

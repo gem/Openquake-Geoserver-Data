@@ -1,5 +1,5 @@
 <featureType>
-  <id>FeatureTypeInfoImpl-450d4541:12fa27ce5da:-7ff1</id>
+  <id>FeatureTypeInfoImpl-724bcc52:12f8ac64a92:-7ffe</id>
   <name>arizona_faults</name>
   <nativeName>arizona_faults</nativeName>
   <namespace>
@@ -11,7 +11,7 @@
     <metadataLink>
       <type>text/xml</type>
       <metadataType>TC211</metadataType>
-      <content>http://184.106.119.223/geonetwork/srv/en/csw?outputschema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&amp;service=CSW&amp;request=GetRecordById&amp;version=2.0.2&amp;elementsetname=full&amp;id=fef000fc-4ad9-4240-b1ce-af800a49fd20</content>
+      <content>http://gemsun02.ethz.ch/geonetwork/srv/en/csw?outputschema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&amp;service=CSW&amp;request=GetRecordById&amp;version=2.0.2&amp;elementsetname=full&amp;id=4033d3b2-50d5-4c74-bef3-17971c1415ae</content>
     </metadataLink>
   </metadataLinks>
   <srs>EPSG:4326</srs>
@@ -30,7 +30,7 @@
   <projectionPolicy>FORCE_DECLARED</projectionPolicy>
   <enabled>true</enabled>
   <store class="dataStore">
-    <id>DataStoreInfoImpl-450d4541:12fa27ce5da:-7ff2</id>
+    <id>DataStoreInfoImpl-724bcc52:12f8ac64a92:-7fff</id>
   </store>
   <maxFeatures>0</maxFeatures>
   <numDecimals>0</numDecimals>
