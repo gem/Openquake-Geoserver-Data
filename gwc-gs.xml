@@ -1,8 +1,8 @@
 <GeoServerGWCConfig>
-  <directWMSIntegrationEnabled>false</directWMSIntegrationEnabled>
-  <WMSCEnabled>true</WMSCEnabled>
-  <WMTSEnabled>true</WMTSEnabled>
-  <TMSEnabled>true</TMSEnabled>
+  <directWMSIntegrationEnabled>true</directWMSIntegrationEnabled>
+  <WMSCEnabled>false</WMSCEnabled>
+  <WMTSEnabled>false</WMTSEnabled>
+  <TMSEnabled>false</TMSEnabled>
   <cacheLayersByDefault>true</cacheLayersByDefault>
   <cacheNonDefaultStyles>true</cacheNonDefaultStyles>
   <metaTilingX>4</metaTilingX>
