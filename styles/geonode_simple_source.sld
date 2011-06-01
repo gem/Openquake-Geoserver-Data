@@ -14,125 +14,21 @@
       <FeatureTypeStyle>
         
         <Rule>
-          <Name>Earthquake Type</Name>
-          <Title>Normal</Title>
-          <ogc:Filter>
-            <ogc:And>
-              <ogc:PropertyIsGreaterThanOrEqualTo>
-                <ogc:PropertyName>rake</ogc:PropertyName>
-                <ogc:Literal>-134.9</ogc:Literal>
-              </ogc:PropertyIsGreaterThanOrEqualTo>
-              <ogc:PropertyIsLessThan>
-                <ogc:PropertyName>rake</ogc:PropertyName>
-                <ogc:Literal>-45.0</ogc:Literal>
-              </ogc:PropertyIsLessThan>
-            </ogc:And>
-          </ogc:Filter>
           <LineSymbolizer>
             <Geometry><ogc:PropertyName>edge</ogc:PropertyName></Geometry>
             <Stroke>
-              <CssParameter name="stroke">#FF6FB4</CssParameter>
+              <CssParameter name="stroke">#FF2200</CssParameter>
             </Stroke>
           </LineSymbolizer>
           <PolygonSymbolizer>
             <Geometry><ogc:PropertyName>outline</ogc:PropertyName></Geometry>
             <Fill>
-              <CssParameter name="fill">#FF9999</CssParameter>
+              <CssParameter name="fill">#FF2222</CssParameter>
               <CssParameter name="fill-opacity">0.5</CssParameter>
             </Fill>
           </PolygonSymbolizer>
         </Rule>
-        
-        <Rule>
-          <Name>Earthquake Type</Name>
-          <Title>Left-Lateral Strike Slip</Title>
-          <ogc:Filter>
-            <ogc:And>
-              <ogc:PropertyIsGreaterThanOrEqualTo>
-                <ogc:PropertyName>rake</ogc:PropertyName>
-                <ogc:Literal>-44.9</ogc:Literal>
-              </ogc:PropertyIsGreaterThanOrEqualTo>
-              <ogc:PropertyIsLessThan>
-                <ogc:PropertyName>rake</ogc:PropertyName>
-                <ogc:Literal>44.9</ogc:Literal>
-              </ogc:PropertyIsLessThan>
-            </ogc:And>
-          </ogc:Filter>
-          <LineSymbolizer>
-            <Geometry><ogc:PropertyName>edge</ogc:PropertyName></Geometry>
-            <Stroke>
-              <CssParameter name="stroke">#EFF167</CssParameter>
-            </Stroke>
-          </LineSymbolizer>
-          <PolygonSymbolizer>
-            <Geometry><ogc:PropertyName>outline</ogc:PropertyName></Geometry>
-            <Fill>
-              <CssParameter name="fill">#FFFF99</CssParameter>
-              <CssParameter name="fill-opacity">0.5</CssParameter>
-            </Fill>
-          </PolygonSymbolizer>
-        </Rule>
-        
-        <Rule>
-          <Name>Earthquake Type</Name>
-          <Title>Reverse/Thrust</Title>
-          <ogc:Filter>
-            <ogc:And>
-              <ogc:PropertyIsGreaterThanOrEqualTo>
-                <ogc:PropertyName>rake</ogc:PropertyName>
-                <ogc:Literal>45.0</ogc:Literal>
-              </ogc:PropertyIsGreaterThanOrEqualTo>
-              <ogc:PropertyIsLessThan>
-                <ogc:PropertyName>rake</ogc:PropertyName>
-                <ogc:Literal>134.9</ogc:Literal>
-              </ogc:PropertyIsLessThan>
-            </ogc:And>
-          </ogc:Filter>
-          <LineSymbolizer>
-            <Geometry><ogc:PropertyName>edge</ogc:PropertyName></Geometry>
-            <Stroke>
-              <CssParameter name="stroke">#00BB9A</CssParameter>
-            </Stroke>
-          </LineSymbolizer>
-          <PolygonSymbolizer>
-            <Geometry><ogc:PropertyName>outline</ogc:PropertyName></Geometry>
-            <Fill>
-              <CssParameter name="fill">#99FF99</CssParameter>
-              <CssParameter name="fill-opacity">0.5</CssParameter>
-            </Fill>
-          </PolygonSymbolizer>
-        </Rule>
-        
-        <Rule>
-          <Name>Earthquake Type</Name>
-          <Title>Right-Lateral Strike Slip</Title>
-          <ogc:Filter>
-            <ogc:And>
-              <ogc:PropertyIsGreaterThanOrEqualTo>
-                <ogc:PropertyName>rake</ogc:PropertyName>
-                <ogc:Literal>135.0</ogc:Literal>
-              </ogc:PropertyIsGreaterThanOrEqualTo>
-              <ogc:PropertyIsLessThan>
-                <ogc:PropertyName>rake</ogc:PropertyName>
-                <ogc:Literal>224.9</ogc:Literal>
-              </ogc:PropertyIsLessThan>
-            </ogc:And>
-          </ogc:Filter>
-          <LineSymbolizer>
-            <Geometry><ogc:PropertyName>edge</ogc:PropertyName></Geometry>
-            <Stroke>
-              <CssParameter name="stroke">#009CBE</CssParameter>
-            </Stroke>
-          </LineSymbolizer>
-          <PolygonSymbolizer>
-            <Geometry><ogc:PropertyName>outline</ogc:PropertyName></Geometry>
-            <Fill>
-              <CssParameter name="fill">#00D2FF</CssParameter>
-              <CssParameter name="fill-opacity">0.5</CssParameter>
-            </Fill>
-          </PolygonSymbolizer>
-        </Rule>
-        
+                
         </FeatureTypeStyle>
     </UserStyle>
   </NamedLayer>
